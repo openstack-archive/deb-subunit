@@ -24,8 +24,8 @@ Build-Depends: autoconf (>= 2.59),
                python3-testtools (>= 0.9.35),
 Build-Depends-Indep: perl,
 Standards-Version: 3.9.6
-Vcs-Git: https://git.openstack.org/openstack/deb-subunit
-Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-subunit?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-subunit -b debian/newton
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-subunit?h=debian%2Fnewton?h=debian%2Fnewton
 Homepage: http://code.launchpad.net/subunit
 
 Package: subunit

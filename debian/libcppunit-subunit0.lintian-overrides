@@ -1,0 +1,1 @@
+libcppunit-subunit0: postinst-must-call-ldconfig usr/lib/x86_64-linux-gnu/libcppunit_subunit.so.0.0.0

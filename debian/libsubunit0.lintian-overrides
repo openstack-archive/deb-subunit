@@ -1,0 +1,1 @@
+libsubunit0: postinst-must-call-ldconfig usr/lib/x86_64-linux-gnu/libsubunit.so.0.0.0
