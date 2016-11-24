@@ -1,3 +1,12 @@
+========================
+Team and repository tags
+========================
+
+.. image:: http://governance.openstack.org/badges/deb-subunit.svg
+    :target: http://governance.openstack.org/reference/tags/index.html
+
+.. Change things from this point on
+
 
   subunit: A streaming protocol for test results
   Copyright (C) 2005-2013 Robert Collins <robertc@robertcollins.net>
